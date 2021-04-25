@@ -1,7 +1,7 @@
--> Hey,I am Prajakta More
--> Currently learning Java👩‍💻
--> 📫 How to reach me ...
-          ---->prajaktamore2406@gmail.com 👈 That's my email you can email me here
+Hey...!!
+    I am PRAJAKTA MORE
+    Currently I'm in 3rd year of Computer Engineering at SSBT COET,Bambhori,Jalgaon.
+    I had completed my Diploma from Government Polytechnic Jalgaon at aggregate of 77%.
 
 <!---
 PBMore24/PBMore24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
